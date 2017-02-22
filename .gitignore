@@ -1,5 +1,6 @@
 # Compiled
 *.elc
 *~
+*swp
 # Packaging
 .cask
